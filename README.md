@@ -1,1 +1,1 @@
-# A-cool-project-Movie-Find-App-
+Find any movie , its rating and any related information
